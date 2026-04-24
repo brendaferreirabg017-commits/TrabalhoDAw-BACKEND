@@ -1,0 +1,5 @@
+Elemento Extra: Sistema de Conexão entre Artista, Obra e Galeria
+O que eu fiz:
+Criei um sistema que interliga as informações do projeto. 
+Agora, as Obras, os Artistas e as Galerias "conversam" entre si de um jeito inteligente,
+ garantindo que nenhum dado fique perdido ou errado.
